@@ -1,1 +1,1 @@
-# CNN-and-Visual-transformers-for-image-classification
+# CNN-and-Vision-transformers-for-image-classification
